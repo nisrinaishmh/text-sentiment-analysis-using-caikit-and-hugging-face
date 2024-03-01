@@ -8,7 +8,7 @@
 
 **Task for Mentee from IBM Advance AI Mentor @ Infinite Learning Course**🎓
 
-**Completed Course:** Practice Text Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.ai🔭🛸
+**Completed Course:** Practice to Create Text Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.ai🔭🛸
 
 ### Mentee Info✨
 
